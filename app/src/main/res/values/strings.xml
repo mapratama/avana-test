@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AvanaTest</string>
+    <string name="facebook_app_id">991063564564015</string>
+    <string name="fb_login_protocol_scheme">fb991063564564015</string>
+
+    <string name="error">Tidak dapat menampilkan data</string>
+    <string name="fb_error">Tidak dapat login menggunakan facebook</string>
+    <string name="empty">Data sedang tidak ada</string>
+    <string name="logout">Logout</string>
+    <string name="buy">Buy</string>
+    <string name="customer_data">Customer Data</string>
+    <string name="payment_data">Payment Data</string>
+    <string name="name">Name</string>
+</resources>
